@@ -1,16 +1,5 @@
 # provider_app2
 
-A new Flutter project.
+실질적으로 상태관리를 통한 UI의 변경을 발생시키는 ChangeNotifierProvider의 기본적인 사용법을 설명한 예제 앱입니다.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
